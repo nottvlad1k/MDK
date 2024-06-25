@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "MDK", "MDK\MDK.vdproj", "{317F3D55-842B-44D0-A4CB-7965DD2B5F45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{317F3D55-842B-44D0-A4CB-7965DD2B5F45}.Debug|Default.ActiveCfg = Debug
+		{317F3D55-842B-44D0-A4CB-7965DD2B5F45}.Debug|Default.Build.0 = Debug
+		{317F3D55-842B-44D0-A4CB-7965DD2B5F45}.Release|Default.ActiveCfg = Release
+		{317F3D55-842B-44D0-A4CB-7965DD2B5F45}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0CF14A34-F857-422A-AF66-8D3D84C03660}
+	EndGlobalSection
+EndGlobal
